@@ -9,10 +9,9 @@ class Anagram
     @word = word
   end
 
-  def match(word_array)
-    word.each do |w|
-      w = word%w(word_array)
-    end
+  #def match(word_array)
+  ##    w = word%w(word_array)
+    #end
 
 
 
