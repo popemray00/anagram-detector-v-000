@@ -13,7 +13,7 @@ class Anagram
     word.each do |w|
       w = word%w(word_array)
     end
-      
+
 
 
   end
